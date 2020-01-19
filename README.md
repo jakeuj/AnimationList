@@ -3,7 +3,7 @@
 
 [圖源：Pixiv-78875342](https://www.pixiv.net/artworks/78875342)
 
-首版以巴哈動漫瘋為主所以會少很多作品，非巴哈的會陸續補上，有推薦的可以發PR。
+有想協作推薦的可以Fork後發PR補充作品！
 
 ## 奇幻冒險
 
@@ -59,6 +59,8 @@
 
 - [混沌之子](https://ani.gamer.com.tw/animeVideo.php?sn=7156)
 - [命運石之門](https://www.58b.tv/vod-read-id-33343.html)
+- 彼方的阿斯特拉
+- [ALDNOAH.ZERO](https://zh.wikipedia.org/zh-tw/ALDNOAH.ZERO)
 
 ## 青春校園
 
@@ -68,6 +70,7 @@
 - [學生會的一己之見](https://www.58b.tv/vod-read-id-13103.html)
 - [我的朋友很少](https://www.58b.tv/vod-read-id-41319.html)
 - [學園默示錄](https://www.58b.tv/vod-read-id-20835.html)
+- 夏洛特
 
 ## 幽默搞笑
 
@@ -82,6 +85,7 @@
 - [電波少女](https://www.58b.tv/vod-read-id-10604.html)
 - [我的妹妹不可能這麼可愛](https://www.58b.tv/vod-read-id-32815.html)
 - [GAMERS電玩咖](https://www.58b.tv/vod-read-id-93856.html)
+- 後街女孩
 
 ## 戀愛
 
@@ -94,6 +98,10 @@
 - [天降之物](https://www.58b.tv/vod-read-id-13401.html)
 - [只有神知道的世界](https://www.58b.tv/vod-read-id-23765.html)
 - [架向星空的橋](https://www.58b.tv/vod-read-id-32920.html)
+- [尋找失去的未來](https://ani.gamer.com.tw/animeVideo.php?sn=1354)
+- 鄰座的怪同學
+- 徒然喜歡你
+- 笨拙的上野
 
 ## 溫馨
 
@@ -119,15 +127,57 @@
 - [GoSick](https://www.58b.tv/vod-read-id-28342.html)
 - [MyselfYourself](https://www.58b.tv/vod-read-id-10773.html)
 - [冰果](https://www.58b.tv/vod-read-id-46038.html)
+- 神的記事本
 
 ## 料理美食
 
 ## 社會寫實
 
+- 機動戰士鋼彈
+- 鐵血孤兒
+
 ## 運動競技
 
 - [龍王的工作！](https://ani.gamer.com.tw/animeVideo.php?sn=9285)
+- 花牌情緣
 
 ## 歷史傳記
 
+- 漂流武士
+
 ## 其他
+
+- [黃金神威](https://www.58b.tv/vod-read-id-99942.html)
+- 街角魔族
+- 小林家的龍女僕
+- 天使降臨我身邊
+- 柑橘味香氣
+- 終將成為你
+- 進擊的巨人
+- JOJO
+- 聲之形
+- 凪的明日
+- 來自繽紛世界的明天
+- 煙草
+- 魔法戰爭
+- 迷家
+- 國王遊戲
+- 黑之契約者
+- 約定的夢幻島
+- 笑園漫畫大王
+- 刺客伍六七
+- 奇諾之旅
+- 紫羅蘭永恆花園
+- 路人超能100
+- 高分少女
+- 魔法使的新娘
+- 大劍
+- 蟲師
+- 來自新世界
+- 寄生獸
+- 烙印勇士
+- 零之使魔
+- 禁忌咒紋
+- MUSASHI -GUN道-
+- 正確的卡多
+
